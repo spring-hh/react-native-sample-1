@@ -1,5 +1,5 @@
 ## start app
 
 ```bash
-expo start
+$ expo start
 ```
